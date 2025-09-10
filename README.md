@@ -1,8 +1,12 @@
 ## Hi there I’m @DocOVG 👋
-- 👀 I’m interested in JS, TS,, Flutter, JAVA and Website Deployment and Development
+- 👀 I’m interested in JS, TS, Flutter, JAVA and Website Deployment and Development
 - 📫 How to reach me: open an ISSUE!
 - ⚡ I speak English, Spanish and French, my native language.
 
+---
+
+### 📊 GitHub Stats
+![DocOVG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocOVG&hide=contribs&show_icons=true&theme=radical)
 
 <!--
 **docovg/DocOVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
