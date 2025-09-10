@@ -7,6 +7,8 @@
 
 ### 📊 GitHub Stats
 ![DocOVG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocOVG&hide=contribs&show_icons=true&theme=radical)
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocOVG&layout=compact&theme=radical)
 
 <!--
 **docovg/DocOVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
