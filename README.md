@@ -1,7 +1,7 @@
 ## Hi there I’m @DocOVG 👋
 - 👀 I’m interested in JS, TS, Flutter, JAVA and Website Deployment and Development
 - 📫 How to reach me: open an ISSUE!
-- ⚡ I speak English, Spanish and French, my native language.
+- ⚡ I speak English, Arabic and French, my native language.
 
 ---
 
